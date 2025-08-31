@@ -8,5 +8,5 @@ class User {
     }
 }
 
-let user = new User({ email: "edson@email.com" })
+let user = new User({ email: "erika@email.com" })
 user.sendMessage()
